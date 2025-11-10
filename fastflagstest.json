@@ -20,7 +20,7 @@
     "DFFlagReplicatorStopCleanup": "True",
     "DFFlagFixUserTurnAuthJoinedVoiceRace": "True",
     "FFlagEnableBubbleChatFromChatService": "False",
-    "DFIntTextureQualityOverride": 0,
+    "DFIntTextureQualityOverride": 2,
     "DFFlagCLI_157490_DelayBroadPhaseForBulkMove": "True",
     "DFIntMaxSoundCpuUsageThresholdPercent": 5,
     "DFIntAuroraClientInputBufferSize": 10,
