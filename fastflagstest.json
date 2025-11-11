@@ -371,7 +371,7 @@
     "DFIntRakNetNakResendDelayMs": 20,
     "DFIntRakNetMtuValue3InBytes": 1200,
     "DFIntTextureQualityOverride": 2,
-    "DFIntTaskSchedulerTargetFps": 5000,
+    "DFIntTaskSchedulerTargetFps": 0,
     "DFIntBufferCompressionLevel": 0,
     "DFIntMinimalSimRadiusBuffer": 0,
     "DFIntHttpBatchApi_maxWaitMs": 3,
