@@ -370,7 +370,7 @@
     "DFIntMemoryPressureTriggerMB": 256,
     "DFIntRakNetNakResendDelayMs": 20,
     "DFIntRakNetMtuValue3InBytes": 1200,
-    "DFIntTextureQualityOverride": 0,
+    "DFIntTextureQualityOverride": 2,
     "DFIntTaskSchedulerTargetFps": 5000,
     "DFIntBufferCompressionLevel": 0,
     "DFIntMinimalSimRadiusBuffer": 0,
