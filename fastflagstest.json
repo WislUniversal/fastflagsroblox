@@ -571,5 +571,8 @@
     "DFIntEstimatedSafeVideoMemoryMB": 512,
     "DFIntEstimated32BitsArchMaxVMSizeMB": 2048,
     "DFIntPredictedOOMPercent": 0,
-    "FFlagEnableMemoryFillTest": "False"
+    "FFlagEnableMemoryFillTest": "False",
+    "DFIntAnimatorRetargetSkipLowerBodyIKDistance10x": "0",
+    "FFlagAnimatorRetargetSkipLowerBodyIK": false,
+    "DFFlagAnimatorPostProcessIK": true
 }
