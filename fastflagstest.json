@@ -607,5 +607,11 @@
     "DFIntUITextureHighMaxFrameJobCount": 32,
     "DFIntUITextureMediumMaxUpdateDepth": 32,
     "DFIntUITextureLowMaxUpdateDepth": 32,
-    "DFIntUITextureHighMaxUpdateDepth": 32
+    "DFIntUITextureHighMaxUpdateDepth": 32,
+    "DFIntNetworkInDeserializeLimitGameplayMsRcc": 3,
+    "DFIntMaxReceiveToDeserializeLatencyMilliseconds": 10,
+    "DFIntNetworkStopProducingPacketsToProcessThresholdMs": 0,
+    "DFIntMaxWaitTimeBeforeForcePacketProcessMS": 1,
+    "DFIntClientPacketMinMicroseconds": 1,
+    "DFIntNetworkInDeserializeLimitGameplayMsClient": 3
 }
