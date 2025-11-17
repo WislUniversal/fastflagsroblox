@@ -581,7 +581,7 @@
     "FIntCSGVoxelizerFadeRadius": 0,
     "FIntVRTouchControllerTransparency": 0,
     "FIntMaxCameraMaxZoomDistance": 200,
-    "FIntCameraFarZPlane": 1250,
+    "FIntCameraFarZPlane": 1400,
     "FIntNewDevConsoleMaxLogCount": 0,
     "FIntMaxClients": 100,
     "FIntHSRClusterSymmetryDistancePercent": "100",
