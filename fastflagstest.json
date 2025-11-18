@@ -592,6 +592,7 @@
     "FFlagLightOcclusionCull2": true,
     "DFFlagOctreeQuerySphere": true,
     "FIntModelClusterExtent": 128,
+    "DFFlagDebugDisableTimeoutDisconnect": true,
     "DFIntStreamingMemoryUsagePercent": 40,
     "DFIntUITextureMediumMaxTotalTextureMemoryMB": 32,
     "DFIntUITextureMediumMaxSingleTextureMemoryMB": 32,
@@ -635,5 +636,6 @@
     "DFIntLuauGcStepMul": 100,
     "DFIntLuaGcMaxKb": 5000,
     "DFIntLuaGcBoost": 2,
-    "FIntLuauGcGoal": 95
+    "FIntLuauGcGoal": 95,
+    "DFFlagSimSolverOptimizeGeometricStiffness4": "True"
 }
