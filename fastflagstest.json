@@ -624,5 +624,16 @@
     "FFlagPreloadTextureItemsOption4": "true",
     "DFIntContentProviderPreloadHangTelemetryHundredthsPercentage": 0,
     "DFIntWindowsWebViewTelemetryThrottleHundredthsPercent": 0,
-    "DFIntMacWebViewTelemetryThrottleHundredthsPercent": 0
+    "DFIntMacWebViewTelemetryThrottleHundredthsPercent": 0,
+    "DFFlagPerformanceControlEnableMemoryProbing3": "True",
+    "DFFlagProbesStaggerUpdateCalls": "True",
+    "FFlagAvoidUnnecessaryQuadtreeLock": "True",
+    "FFlagOptimizeCFrameUpdatesIC5": "True",
+    "FIntRenderNodeEnterSleepingFrames": 0,
+    "DFIntSpinMutexAttemptsBeforeYield": 16,
+    "DFIntLuauGcStepSizeKb": 5,
+    "DFIntLuauGcStepMul": 100,
+    "DFIntLuaGcMaxKb": 5000,
+    "DFIntLuaGcBoost": 2,
+    "FIntLuauGcGoal": 95
 }
