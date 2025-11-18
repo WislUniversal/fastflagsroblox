@@ -360,7 +360,7 @@
     "DFIntMaxAudioAssetIdListSize": 10,
     "DFIntSignalRCoreRpcQueueSize": 16384,
     "DFIntBatchThumbnailMinWaitMs": 1,
-    "DFIntDebugRestrictGCDistance": 5,
+    "DFIntDebugRestrictGCDistance": 15,
     "DFIntRakNetResendRttMultiple": 2,
     "DFIntCrossPlatformMinMTUSize": 1300,
     "DFIntBatchThumbnailMaxWaitMs": 3,
